@@ -1,4 +1,4 @@
-#liri-node-app
+# liri-node-app
 
 * to install these npm packages run these commands one at a time.
 
